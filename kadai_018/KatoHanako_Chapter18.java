@@ -6,7 +6,7 @@ public class KatoHanako_Chapter18 extends Kato_Chapter18{
 		System.out.println("趣味は読書です");
 	}
 	
-	public void setName(String name){
+	public void setGivenName(String name){
 		this.givenName = name;
 	}
 
