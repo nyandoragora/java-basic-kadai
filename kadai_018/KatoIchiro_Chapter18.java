@@ -6,7 +6,7 @@ public class KatoIchiro_Chapter18 extends Kato_Chapter18{
 		System.out.println("好きな食べ物はりんごです");
 	}
 	
-	public void setName(String name){
+	public void setGivenName(String name){
 		this.givenName = name;
 	}
 
